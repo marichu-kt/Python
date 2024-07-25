@@ -1,0 +1,8 @@
+#########################
+##  Claves de cifrado  ##
+#########################
+
+# EJEMPLOS
+# Clave de 16 bytes (AES-128):    3XdxDdDw0sLlphKNh0Eyhg==
+# Clave de 24 bytes (AES-192):    fS8T0P5+1q1cR9Y0V6uD/xcbWlW1p+iB
+# Clave de 32 bytes (AES-256):    9WhCnBRfz0B0Vhcb+5eZz2zF/0dKMb5+gWJ4FJXf4Nw=
